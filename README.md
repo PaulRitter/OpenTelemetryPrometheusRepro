@@ -1,4 +1,4 @@
-Reproduction of how the Prometheus Exporter does not return any data if used in a dotnet 6 project.
+Reproduction of how the Prometheus Exporter does not return any data if used in a dotnet 6 project. (Issue: https://github.com/open-telemetry/opentelemetry-dotnet/issues/5224)
 
 Inside this Repo you will find two completely identical projects, the only distinction being that one targets net6, while the other targets net8.
 
